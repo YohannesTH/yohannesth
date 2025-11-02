@@ -8,7 +8,7 @@
 ---
 
 ### 👋 About Me  
-I am a mathematics major with a deep interest in the intersection of **stochastic processes, probability theory**, and **machine learning**.  
+I am a mathematics graduate with a deep interest in the intersection of **stochastic processes, probability theory**, **machine learning**, and **deep learning**.  
 My work and studies emphasize the theoretical foundations of data-driven modeling and their applications in **AI automation** and **football data analysis**.  
 
 I am particularly drawn to building and analyzing models that reveal structure in complex systems — from probabilistic reasoning to modern deep learning architectures.
