@@ -1,7 +1,7 @@
 <h2 align="center">Yohannes T. Haile</h2>
 <p align="center">
   <em>
-    Focused on Probability Theory, Stochastic Modeling, Machine Learning, Deep Learning, Computer Vision, Data Science and Football Data Analysis
+    Focused on AI Automation, Machine Learning, Stochastic Modeling, Deep Learning, Computer Vision, Data Science, and Football Data Analysis
   </em>
 </p>
 
