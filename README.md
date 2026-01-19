@@ -19,7 +19,7 @@ I am particularly drawn to building and analyzing models that reveal structure i
 - Probability Theory and Stochastic Processes  
 - Machine Learning & Deep Learning  
 - AI Automation and Intelligent Systems  
-- Football Data Analytics and Performance Modeling  
+- Football Data Analytics   
 
 ---
 
@@ -39,37 +39,13 @@ I am particularly drawn to building and analyzing models that reveal structure i
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-00C0FF?style=for-the-badge&logo=lightgbm&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-4080FF?style=for-the-badge&logo=catboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/mlxtend-6F3E93?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/imbalanced-learn-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastai-0056FF?style=for-the-badge&logo=fastai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pillow-FF4500?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--image-008080?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Albumentations-1F1F1F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kornia-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Detectron2-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MMDetection-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yolov5-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mediapipe-00BFFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/mplsoccer-FF4500?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/statsbombpy-FF9900?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/understatapi-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/socceraction-FF6347?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/rapidfuzz-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SymPy-FF6600?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pyMC-008080?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow--Probability-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/sdeint-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/stochastic-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/networkx-FF1493?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/numba-FF4500?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/openpyxl-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/xlrd-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/xlwt-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/dask-FFB300?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/vaex-2E2E2E?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 
