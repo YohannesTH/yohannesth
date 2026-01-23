@@ -40,7 +40,6 @@ I am particularly drawn to building and analyzing models that reveal structure i
   <img src="https://img.shields.io/badge/LightGBM-00C0FF?style=for-the-badge&logo=lightgbm&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-4080FF?style=for-the-badge&logo=catboost&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--image-008080?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/mplsoccer-FF4500?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/statsbombpy-FF9900?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/understatapi-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
