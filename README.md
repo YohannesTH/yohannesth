@@ -1,7 +1,7 @@
 <h2 align="center">Yohannes T. Haile</h2>
 <p align="center">
   <em>
-    Focused on AI Automation, Machine Learning, Deep Learning, Data Science, and Football Data Analysis
+    Focused on Machine Learning, Deep Learning, Data Science, and Football Data Analysis
   </em>
 </p>
 
