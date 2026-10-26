@@ -18,7 +18,6 @@ I am particularly drawn to building and analyzing models that reveal structure i
 ### 🧠 Research & Technical Interests  
 - Probability Theory and Stochastic Processes  
 - Machine Learning & Deep Learning  
-- AI Automation and Intelligent Systems  
 - Football Data Analytics   
 
 ---
